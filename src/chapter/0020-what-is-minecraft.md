@@ -11,6 +11,7 @@
 * Two <!-- .element: class="fragment" --> main modes
   * **Survival mode**, where players must gather resources and fend off monsters to survive
   * **Creative mode**, where players have unlimited resources and can build whatever they want
+  * **Adventure mode**, where players can interact with the world, but not change blocks
 * Minecraft <!-- .element: class="fragment" --> has a strong community and has been used in education and other areas to teach subjects such as programming, engineering, and more
 * The <!-- .element: class="fragment" --> game is available on a variety of platforms including PC, iPad, Android, Xbox, PlayStation, and Nintendo Switch
 
