@@ -1,3 +1,0 @@
-# Minecraft Education Edition Intro
-
-
