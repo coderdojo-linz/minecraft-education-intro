@@ -12,9 +12,23 @@
 * MEE <!-- .element: class="fragment" --> also supports coding and programming education with the integration of Code Builder, which allows students to write code with different languages and control the game through it
 
 
-## What MEE is **NOT**
+## Minecraft Editions
 
-> Minecraft Education Edition is **not** the full Minecraft game!
+* Minecraft <!-- .element: class="fragment" --> *Java Edition*
+  * Original version of Minecraft, continuously updated since the game's release in 2011
+  * Available for Windows, Mac, and Linux
+  * Known for its modding community and ability to run custom-made content
+* Minecraft <!-- .element: class="fragment" --> (aka *Bedrock Edition*)
+  * Alternative implementation of Minecraft
+  * Enables cross-platform multiplayer games; available for Windows, Xbox, PlayStation, Nintendo Switch, iOS, Android, and other platforms
+* Minecraft <!-- .element: class="fragment" --> *Education Edition*
+  * Based on the Bedrock Edition, but with additional features
+  * Specifically designed for use in education. 
+  * Available for Windows, Mac, Android, and iPad.
+* Game mechanics are the same for all editions, but editions <!-- .element: class="fragment" --> are **not compatible** with each other.
+  * Developed and maintained by different teams and use different code bases, so they are not able to connect to the same servers or share the same saved worlds.
+  * Java Edition and Bedrock Edition also use different network protocols, so players on one edition cannot join servers or play with players on the other edition.
+  * Players with the Java Edition can't join servers that are running on the Bedrock Edition and vice versa.
 
 
 ## How to Get MEE

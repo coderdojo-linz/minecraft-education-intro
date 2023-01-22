@@ -46,7 +46,7 @@
 * [Steve](https://minecraft.fandom.com/wiki/Player): Is the default playable character of the game, he can be customized with various skins to change his appearance.
   * Skins: Steve, Alex, Noor, Sunny, Ari, Zuri, Makena, Kai, and Efe
 * [Creeper](https://minecraft.fandom.com/wiki/Creeper): Is a hostile mob that explodes when it comes into contact with players or other mobs. It is one of the most well-known mobs in the game, and is known for its distinctive "sssss" sound.
-* [Enderman](https://minecraft.fandom.com/wiki/Enderman): is a neutral mob that can pick up and move blocks, it can also teleport when looked at. It is known for its ability to pick up and move blocks, including blocks that are on the player's structures.
+* [Enderman](https://minecraft.fandom.com/wiki/Enderman): is a mob that can pick up and move blocks, it can also teleport when looked at. It is known for its ability to pick up and move blocks, including blocks that are on the player's structures.
 * And there are [many more...](https://minecraft.fandom.com/wiki/Category:Entities)
 
 

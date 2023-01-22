@@ -3,26 +3,26 @@
 [Key terms & control guide](https://education.minecraft.net/wp-content/uploads/Key-Terms-and-Control-Guide_MEE.pdf)
 
 
-## First Steps
+## Getting Started
 
 ![Start screen](images/0040-starter.png)
 
 
-## First Steps
+## Getting Started
 
-![Start screen](images/0040-library.png)
-
-
-## First Steps
-
-![Start screen](images/0040-how-to-play.png)
+![View library](images/0040-library.png)
 
 
-## First Steps
+## Getting Started
 
-![Start screen](images/0040-start-here.png)
+![How to play lessons](images/0040-how-to-play.png)
 
 
-## First Steps
+## Getting Started
 
-![Start screen](images/0040-learning-basics.png)
+![Keyboard vs. touch selection](images/0040-start-here.png)
+
+
+## Getting Started
+
+![Basic lessons](images/0040-learning-basics.png)
