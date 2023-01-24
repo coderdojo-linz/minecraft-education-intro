@@ -112,3 +112,13 @@ svg tspan.highlight {
 svg div {
   padding-bottom: 10px;
 }
+
+section#redstone img {
+  width: 4em;
+  height: 4em;
+}
+
+section#redstone img.main-img {
+  width: 10em;
+  height: 10em;
+}
