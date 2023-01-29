@@ -142,3 +142,8 @@ section#chemistry img.main-img {
   width: 10em;
   height: 10em;
 }
+
+section#makecode img.hero {
+  width: 70vh;
+  height: auto;
+}
