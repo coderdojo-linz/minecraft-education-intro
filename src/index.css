@@ -122,3 +122,8 @@ section#redstone img.main-img {
   width: 10em;
   height: 10em;
 }
+
+section#redstone img.hero {
+  width: 70vh;
+  height: auto;
+}

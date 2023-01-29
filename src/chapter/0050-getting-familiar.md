@@ -51,6 +51,7 @@
 * Deep dive: How is such a lesson built?
   * For attendees with existing MC experience
 
+
 ## Build a Lecture
 
 * Rebuild the build-a-house-challenge
