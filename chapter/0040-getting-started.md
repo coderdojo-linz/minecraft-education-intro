@@ -1,5 +1,7 @@
 # Getting Started
 
+![Hero image](images/0040-intro-hero.png)
+
 [Key terms & control guide](https://education.minecraft.net/wp-content/uploads/Key-Terms-and-Control-Guide_MEE.pdf)
 
 

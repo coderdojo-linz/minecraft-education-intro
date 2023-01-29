@@ -1,4 +1,6 @@
-# What is Minecraft Education Edition?
+# What is
+
+![Minecraft Education Edition](https://education.minecraft.net/content/dam/education-edition/logos/education-minecraft-logo.svg)
 
 > [https://education.minecraft.net/](https://education.minecraft.net/)
 

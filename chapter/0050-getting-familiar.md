@@ -1,5 +1,7 @@
 # Getting Familiar
 
+![Hero image](images/0050-intro-hero.jpg)
+
 
 ## Getting Familiar
 
