@@ -118,6 +118,11 @@ section#redstone img {
   height: 4em;
 }
 
+section#redstone img.wide-img {
+  width: 8em;
+  height: 4em;
+}
+
 section#redstone img.main-img {
   width: 10em;
   height: 10em;
