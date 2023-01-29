@@ -127,3 +127,13 @@ section#redstone img.hero {
   width: 70vh;
   height: auto;
 }
+
+section#redstone img.hero-smaller {
+  width: 50vh;
+  height: auto;
+}
+
+section#chemistry img.main-img {
+  width: 10em;
+  height: 10em;
+}

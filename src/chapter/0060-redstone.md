@@ -1,5 +1,7 @@
 # Redstone
 
+![Redstone GIF](https://bugs.mojang.com/secure/attachment/290464/6528ea70a79a7eebedfe0e692965e813.gif) <!-- .element: class="hero-smaller"-->
+
 
 ## What is Redstone?
 
