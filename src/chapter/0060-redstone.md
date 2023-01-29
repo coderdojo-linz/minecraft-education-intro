@@ -84,6 +84,7 @@
 ![Hopper](images/0060-redstone-hopper.png)
 ![Piston](images/0060-redstone-piston.png)
 ![Sticky Piston](images/0060-redstone-stickypiston.png)
+![Observer](images/0060-redstone-observer.png)
 
 * [Redstone Lamp](https://minecraft.fandom.com/wiki/Redstone_Lamp)
   * Emits light while receiving power
@@ -92,6 +93,8 @@
 * [Piston](https://minecraft.fandom.com/wiki/Piston)
   * Pushed up to 12 blocks in front of it on receiving signal
   * Sticky Pistons: Also pulls back a single block in front of it on signal lost
+* [Observer](https://minecraft.fandom.com/wiki/Observer)
+  * Outputs a signal on the back if the block in front changes
 
 
 ## Redstone Devices Part 2
