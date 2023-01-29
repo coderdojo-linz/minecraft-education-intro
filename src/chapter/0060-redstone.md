@@ -152,17 +152,17 @@
 
 ## Exercise
 
-![Redstone Road](images/0600-redstone-road.png) <!-- .element: class="hero"-->
+![Redstone Road](images/0060-redstone-road.png) <!-- .element: class="hero"-->
 
 [Redstone Road](https://education.minecraft.net/de-de/lessons/redstone-road)
 
 
 ## Download Redstone Road
 
-![Download Redstone Road](images/0600-redstone-road-download.png) <!-- .element: class="hero"-->
+![Download Redstone Road](images/0060-redstone-road-download.png) <!-- .element: class="hero"-->
 
 
 ## Import Redstone Road
 
-![Import Redstone Road](images/0600-redstone-road-import.png) <!-- .element: class="hero"-->
+![Import Redstone Road](images/0060-redstone-road-import.png) <!-- .element: class="hero"-->
 
