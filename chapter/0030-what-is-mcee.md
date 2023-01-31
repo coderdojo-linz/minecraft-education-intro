@@ -43,6 +43,11 @@
   * E.g. for schools who do not have the license yet, for programming clubs, etc.
 
 
+## Network Problems?
+
+> Review [network/firewall requirements](https://educommunity.minecraft.net/hc/en-us/articles/360047118992) together with your IT admins
+
+
 ## Exercise
 
 * Download and install MEE
