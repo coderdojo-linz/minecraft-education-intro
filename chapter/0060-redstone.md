@@ -10,7 +10,7 @@
 * Requires <!-- .element: class="fragment" --> logical thinking, similar to programming or electronics
   * Start with simple, basic parts
   * Combine these parts to get ever more complex circuits
-* (for a quick introduction click [here](https://learn.microsoft.com/en-us/minecraft/creator/documents/redstoneguide))
+* (for a quick introduction click [here](https://learn.microsoft.com/en-us/minecraft/creator/documents/redstoneguide)) <!-- .element: class="fragment" -->
 
 
 ## What can you do with Redstone?
